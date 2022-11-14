@@ -1,0 +1,496 @@
+@media (max-width: 400px) {
+  .brand-img {
+    width: 50px !important;
+  }
+
+  .date-button {
+    width: 150px !important;
+  }
+}
+
+@media (min-width: 400px) and (max-width: 450px) {
+  .date-button {
+    width: 170px;
+  }
+}
+
+@media (min-width: 450px) and (max-width: 576px) {
+  .date-button {
+    width: 200px;
+  }
+}
+
+@media (max-width: 575.9px) {
+  .common-head-text {
+    font-weight: 700;
+    font-size: 40px;
+    color: #12022f;
+  }
+
+  .header,
+  .banner,
+  .brand,
+  .service,
+  .support,
+  .priceCal {
+    padding: 50px 0;
+  }
+
+  .banner-left {
+    padding: 0;
+    padding-bottom: 30px;
+  }
+
+  .banner-auth {
+    padding: 50px 20px;
+  }
+
+  .banner-left-h4 {
+    padding-right: 0;
+  }
+
+  .banner-left-p {
+    padding-right: 0;
+  }
+
+  .brand-img {
+    width: 60px;
+  }
+
+  .brand .container h4 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .from-inner:last-child {
+    margin-top: 25px;
+    margin-bottom: 0 !important;
+  }
+
+  .dropdown-divider {
+    margin: 20px 0 !important;
+    width: 100%;
+    transform: translateX(0);
+  }
+
+  .service-head-text {
+    margin-bottom: 30px;
+  }
+
+  .service-text-p {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+
+  .service-card {
+    margin-bottom: 35px;
+  }
+
+  .service-card h5 {
+    margin-top: 0.5rem;
+  }
+
+  .service-card p {
+    margin: 0;
+  }
+
+  .service-button {
+    margin-top: 30px;
+    width: 100% !important;
+    margin-left: 0;
+    transform: translateX(0%);
+  }
+
+  .support-text-head {
+    width: 100%;
+    margin-bottom: 50px;
+    text-align: center;
+  }
+
+  .support-button {
+    padding: 20px !important;
+    width: 100%;
+  }
+
+  .support-button:last-child {
+    margin: 20px 0 !important;
+  }
+
+  .support-text-p {
+    margin-bottom: 30px;
+  }
+
+  .priceCal .container {
+    flex-direction: column;
+  }
+
+  .price-left {
+    width: 100%;
+  }
+
+  .price-right {
+    width: 100%;
+    padding: 50px 20px;
+  }
+
+  .price-left-p {
+    width: 100%;
+    margin-bottom: 40px;
+  }
+
+  .top-left {
+    left: 3%;
+  }
+
+  .centered {
+    width: 100%;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #ffffff !important;
+    font-size: 32px;
+    padding: 0 20px;
+  }
+
+  .footer-left {
+    flex-direction: column;
+  }
+
+  .footer-left-left {
+    width: 100%;
+  }
+
+  .footer-left-left .middle {
+    font-size: 18px;
+  }
+
+  .footer-right {
+    width: 100%;
+  }
+
+  .social-image {
+    display: flex;
+    justify-content: center;
+  }
+
+  .social-item {
+    margin: 0 15px;
+  }
+}
+
+@media (max-width: 991px) {
+  .header {
+    padding: 25px 0 !important;
+  }
+
+  /* .navbar {
+    padding: 15px 0;
+  } */
+
+  .navbar-nav {
+    margin: 0 !important;
+  }
+
+  .nav-item {
+    margin: 0;
+    padding: 5px 0 5px 36px;
+  }
+
+  .nav-item-button {
+    padding: 5px 0 5px 0 !important;
+  }
+
+  .nav-item:last-child {
+    margin: 0;
+  }
+
+  .price-left {
+    width: 100%;
+    margin-bottom: 30px;
+    padding-right: 10px;
+  }
+
+  .footer {
+    padding: 50px 10px;
+  }
+
+  .footer .container {
+    flex-direction: column;
+  }
+
+  .footer-left {
+    width: 100%;
+  }
+
+  .footer-right {
+    width: 100%;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.8px) {
+  .common-head-text {
+    font-weight: 700;
+    font-size: 42px;
+    color: #12022f;
+  }
+
+  .header,
+  .banner,
+  .brand,
+  .service,
+  .support,
+  .priceCal {
+    padding: 50px 0;
+  }
+
+  .banner-left {
+    padding: 0;
+    padding-bottom: 30px;
+  }
+
+  .banner-left-h4 {
+    padding-right: 0;
+  }
+
+  .banner-left-p {
+    padding-right: 0;
+  }
+
+  .brand-img {
+    width: 60px;
+  }
+
+  .brand .container h4 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .from-inner:last-child {
+    margin-top: 25px;
+    margin-bottom: 0 !important;
+  }
+
+  .dropdown-divider {
+    margin: 20px 0 !important;
+    width: 100%;
+    transform: translateX(0);
+  }
+
+  .service-head-text {
+    margin-bottom: 30px;
+  }
+
+  .service-text-p {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+
+  .service-card {
+    margin-bottom: 40px;
+  }
+
+  .service-card h5 {
+    margin-top: 0.5rem;
+  }
+
+  .service-card p {
+    margin: 0;
+  }
+
+  .service-button {
+    margin-top: 30px;
+  }
+
+  .support-text-head {
+    width: 100%;
+    margin-bottom: 50px;
+    text-align: center;
+  }
+
+  .support-button {
+    padding: 20px !important;
+    width: 100%;
+  }
+
+  .support-button:last-child {
+    margin: 20px 0 !important;
+  }
+
+  .support-text-p {
+    margin-bottom: 30px;
+  }
+
+  .priceCal .container {
+    flex-direction: column;
+  }
+
+  .price-left {
+    width: 100%;
+  }
+
+  .price-right {
+    width: 100%;
+  }
+
+  .price-left-p {
+    width: 100%;
+    margin-bottom: 40px;
+  }
+
+  .date-button {
+    width: 170px;
+  }
+
+  .top-left {
+    left: 3%;
+  }
+
+  .centered {
+    width: 100%;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #ffffff !important;
+    font-size: 32px;
+    padding: 0 20px;
+  }
+
+  .social-image {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 990.8px) {
+
+  .header,
+  .banner,
+  .brand,
+  .service,
+  .support,
+  .priceCal {
+    padding: 70px 0;
+  }
+
+  .common-head-text {
+    font-weight: 700;
+    font-size: 42px;
+    color: #12022f;
+  }
+
+  .banner-left-h4 {
+    padding-right: 0;
+  }
+
+  .banner-left-p {
+    padding-right: 0px;
+  }
+
+  .banner-auth {
+    padding: 50px 20px;
+  }
+
+  .service-head-text {
+    margin-bottom: 50px;
+  }
+
+  .dropdown-divider {
+    width: 100%;
+    transform: translateX(0);
+  }
+
+  .service-card h5 {
+    font-weight: 600;
+    font-size: 22px;
+    margin-top: 20px;
+    line-height: 25px;
+  }
+
+  .service-button {
+    margin-top: 40px;
+  }
+
+  .support-text-head {
+    width: 100%;
+    margin-bottom: 180px;
+  }
+
+  .support-button {
+    padding: 20px;
+    width: 100%;
+  }
+
+  .video img {
+    height: 400px;
+  }
+
+  .price-right {
+    width: 100% !important;
+    padding: 30px;
+  }
+
+  .price-right br {
+    line-height: 1;
+  }
+
+  .form-inner-button {
+    padding: 10px 12px;
+  }
+
+  .from-inner:last-child {
+    margin-top: 30px;
+  }
+
+  .date-button {
+    width: 45%;
+  }
+
+  .social-image {
+    justify-content: center;
+  }
+}
+
+@media (min-width: 991px) and (max-width: 1199.8px) {
+
+  .banner,
+  .brand,
+  .service,
+  .support,
+  .priceCal {
+    padding: 70px 0;
+  }
+
+  .banner-left {
+    padding: 77px 0;
+  }
+
+  .banner-left-h4 {
+    padding-right: 0px;
+  }
+
+  .banner-left-p {
+    padding-right: 0px;
+  }
+
+  .support-text-head {
+    width: 85%;
+    margin-bottom: 130px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1400px) {
+  .banner-left-h4 {
+    padding-right: 120px;
+  }
+
+  .banner-left-p {
+    padding-right: 200px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 997.8px) {}
